@@ -2,7 +2,7 @@
 - 👀 I’m interested in web devolpement
 - 🌱 I’m currently learning frontend
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me Muhammaadalaa776@gmail.com
+- 📫 How to reach me Muhammadalaa776@gmail.com
 
 <!---
 muhammadaalaa/muhammadaalaa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
