@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @muhammadaalaa
+- 👋 Hi, I’m @muhammadalaa
 - 👀 I’m interested in web devolpement
 - 🌱 I’m currently learning frontend
 - 📫 How to reach me Muhammadalaa776@gmail.com
